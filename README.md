@@ -23,7 +23,7 @@
 </pre>
 </div>
 
-I'm a software engineer at [Jiumi Technology Co., Ltd.](https://www.firmer.tech/about/coyzeng) (YC W24) and like building with LLMs in my free time. I graduated from Liaoning University of Technology with degrees in Soft Engineering and now I live in Zhejiang/Hangzhou.
+I'm a software engineer at [Jiumi Technology Co., Ltd.](https://www.firmer.tech/about/coyzeng) (2024) and like building with LLMs in my free time. I graduated from Liaoning University of Technology with degrees in Soft Engineering and now I live in Zhejiang/Hangzhou.
 
 In the past, I've worked on:
 - System architect at [Eleme](https://ele.me/company/)
