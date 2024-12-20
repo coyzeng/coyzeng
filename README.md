@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey, I'm CoyZeng!
 
-<!--
-**coyzeng/coyzeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="text-align: center;">
+<pre style="display: inline-block; text-align: left;">
+               ,----------------,              ,---------,
+          ,-----------------------,          ,"        ,"|
+        ,"                      ,"|        ,"        ,"  |
+       +-----------------------+  |      ,"        ,"    |
+       |  .-----------------.  |  |     +---------+      |
+       |  |                 |  |  |     | -==----'|      |
+       |  | coyzeng  :~$    |  |  |     |         |      |
+       |  |                 |  |  |/----|`---=    |      |
+       |  |                 |  |  |   ,/|==== ooo |      ;
+       |  |                 |  |  |  // |(((( [33]|    ,"
+       |  `-----------------'  |," .;'| |((((     |  ,"
+       +-----------------------+  ;;  | |         |,"
+          /_)______________(_/  //'   | +---------+
+     ___________________________/___  `,
+    /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+   / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+  /_==__==========__==_ooo__ooo=_/'   /___________,"
+  `-----------------------------'
+</pre>
+</div>
 
-Here are some ideas to get you started:
+I'm a software engineer at [Jiumi Technology Co., Ltd.](https://www.firmer.tech/about/coyzeng) (YC W24) and like building with LLMs in my free time. I graduated from Liaoning University of Technology with degrees in Soft Engineering and now I live in Zhejiang/Hangzhou.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the past, I've worked on:
+- System architect at [Eleme](https://ele.me/company/)
+- Software engineer at [AntGroup](https://www.antgroup.com/)
+- System architect at [Aliyun](https://www.aliyun.com/about)
+- Technical manager at [Unreal Speech](https://www.trustbe.cn/gsjs)
+- Open source at [YouTube](https://github.com/jiumi)
+
+<div align="center">
+  <img src="https://github.com/coyzeng/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/coyzeng/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://github.com/coyzeng/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+  <img src="https://github.com/coyzeng/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</div>
